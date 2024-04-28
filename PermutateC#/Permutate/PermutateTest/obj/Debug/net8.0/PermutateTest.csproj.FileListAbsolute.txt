@@ -1,0 +1,14 @@
+D:\Project\GolangTest\PermutateC#\Permutate\PermutateTest\bin\Debug\net8.0\PermutateTest.exe
+D:\Project\GolangTest\PermutateC#\Permutate\PermutateTest\bin\Debug\net8.0\PermutateTest.deps.json
+D:\Project\GolangTest\PermutateC#\Permutate\PermutateTest\bin\Debug\net8.0\PermutateTest.runtimeconfig.json
+D:\Project\GolangTest\PermutateC#\Permutate\PermutateTest\bin\Debug\net8.0\PermutateTest.dll
+D:\Project\GolangTest\PermutateC#\Permutate\PermutateTest\bin\Debug\net8.0\PermutateTest.pdb
+D:\Project\GolangTest\PermutateC#\Permutate\PermutateTest\obj\Debug\net8.0\PermutateTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\GolangTest\PermutateC#\Permutate\PermutateTest\obj\Debug\net8.0\PermutateTest.AssemblyInfoInputs.cache
+D:\Project\GolangTest\PermutateC#\Permutate\PermutateTest\obj\Debug\net8.0\PermutateTest.AssemblyInfo.cs
+D:\Project\GolangTest\PermutateC#\Permutate\PermutateTest\obj\Debug\net8.0\PermutateTest.csproj.CoreCompileInputs.cache
+D:\Project\GolangTest\PermutateC#\Permutate\PermutateTest\obj\Debug\net8.0\PermutateTest.dll
+D:\Project\GolangTest\PermutateC#\Permutate\PermutateTest\obj\Debug\net8.0\refint\PermutateTest.dll
+D:\Project\GolangTest\PermutateC#\Permutate\PermutateTest\obj\Debug\net8.0\PermutateTest.pdb
+D:\Project\GolangTest\PermutateC#\Permutate\PermutateTest\obj\Debug\net8.0\PermutateTest.genruntimeconfig.cache
+D:\Project\GolangTest\PermutateC#\Permutate\PermutateTest\obj\Debug\net8.0\ref\PermutateTest.dll

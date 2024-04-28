@@ -1,0 +1,14 @@
+D:\Project\GolangTest\SmileyC#\Smiley\ConsoleApp1\bin\Debug\net8.0\Smileface.exe
+D:\Project\GolangTest\SmileyC#\Smiley\ConsoleApp1\bin\Debug\net8.0\Smileface.deps.json
+D:\Project\GolangTest\SmileyC#\Smiley\ConsoleApp1\bin\Debug\net8.0\Smileface.runtimeconfig.json
+D:\Project\GolangTest\SmileyC#\Smiley\ConsoleApp1\bin\Debug\net8.0\Smileface.dll
+D:\Project\GolangTest\SmileyC#\Smiley\ConsoleApp1\bin\Debug\net8.0\Smileface.pdb
+D:\Project\GolangTest\SmileyC#\Smiley\ConsoleApp1\obj\Debug\net8.0\Smileface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\GolangTest\SmileyC#\Smiley\ConsoleApp1\obj\Debug\net8.0\Smileface.AssemblyInfoInputs.cache
+D:\Project\GolangTest\SmileyC#\Smiley\ConsoleApp1\obj\Debug\net8.0\Smileface.AssemblyInfo.cs
+D:\Project\GolangTest\SmileyC#\Smiley\ConsoleApp1\obj\Debug\net8.0\Smileface.csproj.CoreCompileInputs.cache
+D:\Project\GolangTest\SmileyC#\Smiley\ConsoleApp1\obj\Debug\net8.0\Smileface.dll
+D:\Project\GolangTest\SmileyC#\Smiley\ConsoleApp1\obj\Debug\net8.0\refint\Smileface.dll
+D:\Project\GolangTest\SmileyC#\Smiley\ConsoleApp1\obj\Debug\net8.0\Smileface.pdb
+D:\Project\GolangTest\SmileyC#\Smiley\ConsoleApp1\obj\Debug\net8.0\Smileface.genruntimeconfig.cache
+D:\Project\GolangTest\SmileyC#\Smiley\ConsoleApp1\obj\Debug\net8.0\ref\Smileface.dll

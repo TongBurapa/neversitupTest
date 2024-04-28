@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\GolangTest\\OddAppearC#\\OddAppear\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC486A8B-B786-4275-8B41-023E4D75A678}|OddAppear\\OddAppear.csproj|d:\\project\\golangtest\\oddappearc#\\oddappear\\oddappear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC486A8B-B786-4275-8B41-023E4D75A678}|OddAppear\\OddAppear.csproj|solutionrelative:oddappear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC486A8B-B786-4275-8B41-023E4D75A678}|OddAppear\\OddAppear.csproj|d:\\project\\golangtest\\oddappearc#\\oddappear\\oddappear\\oddappearclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC486A8B-B786-4275-8B41-023E4D75A678}|OddAppear\\OddAppear.csproj|solutionrelative:oddappear\\oddappearclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ACC847-8D9D-45F9-8EF5-66DA7E3A539B}|OddAppearUnittest\\OddAppearUnittest.csproj|d:\\project\\golangtest\\oddappearc#\\oddappear\\oddappearunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ACC847-8D9D-45F9-8EF5-66DA7E3A539B}|OddAppearUnittest\\OddAppearUnittest.csproj|solutionrelative:oddappearunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Project\\GolangTest\\OddAppearC#\\OddAppear\\OddAppearUnittest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "OddAppearUnittest\\UnitTest1.cs",
+              "ToolTip": "D:\\Project\\GolangTest\\OddAppearC#\\OddAppear\\OddAppearUnittest\\UnitTest1.cs",
+              "RelativeToolTip": "OddAppearUnittest\\UnitTest1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:05:40.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OddAppearClass.cs",
+              "DocumentMoniker": "D:\\Project\\GolangTest\\OddAppearC#\\OddAppear\\OddAppear\\OddAppearClass.cs",
+              "RelativeDocumentMoniker": "OddAppear\\OddAppearClass.cs",
+              "ToolTip": "D:\\Project\\GolangTest\\OddAppearC#\\OddAppear\\OddAppear\\OddAppearClass.cs",
+              "RelativeToolTip": "OddAppear\\OddAppearClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:58:46.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\GolangTest\\OddAppearC#\\OddAppear\\OddAppear\\Program.cs",
+              "RelativeDocumentMoniker": "OddAppear\\Program.cs",
+              "ToolTip": "D:\\Project\\GolangTest\\OddAppearC#\\OddAppear\\OddAppear\\Program.cs",
+              "RelativeToolTip": "OddAppear\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:58:32.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

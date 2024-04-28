@@ -1,0 +1,14 @@
+D:\Project\GolangTest\OddAppearC#\OddAppear\OddAppear\bin\Debug\net8.0\OddAppear.exe
+D:\Project\GolangTest\OddAppearC#\OddAppear\OddAppear\bin\Debug\net8.0\OddAppear.deps.json
+D:\Project\GolangTest\OddAppearC#\OddAppear\OddAppear\bin\Debug\net8.0\OddAppear.runtimeconfig.json
+D:\Project\GolangTest\OddAppearC#\OddAppear\OddAppear\bin\Debug\net8.0\OddAppear.dll
+D:\Project\GolangTest\OddAppearC#\OddAppear\OddAppear\bin\Debug\net8.0\OddAppear.pdb
+D:\Project\GolangTest\OddAppearC#\OddAppear\OddAppear\obj\Debug\net8.0\OddAppear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\GolangTest\OddAppearC#\OddAppear\OddAppear\obj\Debug\net8.0\OddAppear.AssemblyInfoInputs.cache
+D:\Project\GolangTest\OddAppearC#\OddAppear\OddAppear\obj\Debug\net8.0\OddAppear.AssemblyInfo.cs
+D:\Project\GolangTest\OddAppearC#\OddAppear\OddAppear\obj\Debug\net8.0\OddAppear.csproj.CoreCompileInputs.cache
+D:\Project\GolangTest\OddAppearC#\OddAppear\OddAppear\obj\Debug\net8.0\OddAppear.dll
+D:\Project\GolangTest\OddAppearC#\OddAppear\OddAppear\obj\Debug\net8.0\refint\OddAppear.dll
+D:\Project\GolangTest\OddAppearC#\OddAppear\OddAppear\obj\Debug\net8.0\OddAppear.pdb
+D:\Project\GolangTest\OddAppearC#\OddAppear\OddAppear\obj\Debug\net8.0\OddAppear.genruntimeconfig.cache
+D:\Project\GolangTest\OddAppearC#\OddAppear\OddAppear\obj\Debug\net8.0\ref\OddAppear.dll
