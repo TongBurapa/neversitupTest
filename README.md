@@ -1,16 +1,24 @@
 Project Structure (assume it's go project)
 |_cmd/api
-  |_routing
+
+....|_routing
     routing.go
+    
 |_internal
-  |_database
+
+....|_database
     databaseConn.go
-  |_handler
+    
+....|_handler
     serviceHandler.go
-  |_server
+    
+....|_server
     serverConn.go
-  |_model
+    
+....|_model
     tableA.go
+    
 |_test
   apiTest.go
+  
 main.go 
